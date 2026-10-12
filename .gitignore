@@ -1,0 +1,16 @@
+# Repos de l'équipe, indépendants de celui-ci
+kommit-backend/
+kommit-frontend/
+
+# Config Claude Code locale
+.claude/settings.local.json
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Env et logs
+.env
+.env.*
+*.log
+node_modules/
